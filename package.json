@@ -1,0 +1,27 @@
+{
+  "name": "bun-ts-runtime-checks",
+  "version": "0.0.1",
+  "description": "",
+  "main": "ts-runtime-checks.ts",
+  "files": [
+    "ts-runtime-checks.ts",
+    "register-plugins.ts"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "bun-types": "*",
+    "ts-runtime-checks": "*",
+    "typescript": "*"
+  },
+  "devDependencies": {
+    "bun-types": "*",
+    "ts-runtime-checks": "*",
+    "typescript": "*"
+  },
+  "type": "module"
+}
